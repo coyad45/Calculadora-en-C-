@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\coyad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coyad\\.nuget\\packages"
+    ]
+  }
+}
